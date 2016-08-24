@@ -6,6 +6,7 @@ Once you run the application you can directly  key-in your math expression. Do t
 square root is the highest priority followed by exponents, division, multiplication, subtraction and addition.
 
 The following are the list of symbols used for math operations:
+
 sqrt()  - square root [example: sqrt(16)]
 ^       - exponent [example: 2^2]
 /       - division [example: 4/2]
