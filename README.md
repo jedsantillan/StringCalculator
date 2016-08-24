@@ -1,5 +1,5 @@
 # StringCalculator
-a console C# application that can solve mathematical expression. It can handle square root, exponents, division, multiplication,subtract.ion
+A console C# application that can solve mathematical expression. It can handle square root, exponents, division, multiplication,subtract.ion
 and addition.
 
 Once you run the application you can directly  key-in your math expression. Do take note that it follows a hierarchy of operation where
