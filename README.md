@@ -7,13 +7,14 @@ square root is the highest priority followed by exponents, division, multiplicat
 
 The following are the list of symbols used for math operations:
 
-sqrt()  - square root [example: sqrt(16)]
-^       - exponent [example: 2^2]
-/       - division [example: 4/2]
-*       - multiplication [example: 3*2]
--       - subtraction [example: 2-1]
-+       - addition [examploe: 5+1]
-
+<ul>
+<li> sqrt()  - square root [example: sqrt(16)] </li>
+<li> ^       - exponent [example: 2^2] </li>
+<li> /       - division [example: 4/2] </li>
+<li> *       - multiplication [example: 3*2] </li>
+<li> -       - subtraction [example: 2-1] </li>
+<li> +       - addition [examploe: 5+1] </li>
+</ul>
 Sample expression used:
 10+2*4/2+sqrt(25)-3^2
  -- that will give you a result of 10
