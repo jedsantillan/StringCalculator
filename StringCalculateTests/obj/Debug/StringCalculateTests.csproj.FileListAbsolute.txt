@@ -1,0 +1,7 @@
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\bin\Debug\StringCalculateTests.dll
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\bin\Debug\StringCalculateTests.pdb
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\bin\Debug\ConsoleApplication2.exe
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\obj\Debug\StringCalculateTests.csprojResolveAssemblyReference.cache
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\obj\Debug\StringCalculateTests.dll
+C:\Users\Jed Santillan\Documents\Visual Studio 2012\Projects\ConsoleApplication2\StringCalculateTests\obj\Debug\StringCalculateTests.pdb
